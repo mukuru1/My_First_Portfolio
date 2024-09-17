@@ -2,6 +2,7 @@
 .logo {
     font-size: 2em; /* Increase the size to make it look like a logo */
     padding-right: 10px; /* Adds some space between the logo and the next menu item */
+}
 
     /* 1. Make <body> and <main> flexible containers */
 body {
@@ -76,4 +77,3 @@ p {
   main {
     flex-grow: 1; /* Main stretches to fill the remaining space */
   }
-  
